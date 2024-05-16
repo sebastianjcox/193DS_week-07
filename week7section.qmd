@@ -6,6 +6,6 @@ format: html
 
 Here's some code!
 ```{r}
-library(tidyverse)
+library(tidyverse) #reading in a package
 ```
 
